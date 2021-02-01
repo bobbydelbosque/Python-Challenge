@@ -1,0 +1,15 @@
+import os
+import 
+
+budget_data_csv = os.path.join("..", "Resources", "budget_data")
+
+#open and read csv
+with open(budget_data) as csv_file:
+ csv_reader = csv.reader(csv_file delimiter=",")
+ print(f"Header: {csv_header}")
+
+for row in csv_reader:
+
+ if float(row{7}) >=5
+ print(row)
+ 
