@@ -1,2 +1,0 @@
-total votes: 3521001
-{'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630}
